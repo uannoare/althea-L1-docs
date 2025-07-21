@@ -123,3 +123,4 @@
 2025-02-11 11:43:02 patch memory leak
 2025-08-02 12:27:36 tweak configs
 2025-03-06 22:32:11 experimental changes
+2025-07-21 07:36:29 fix null pointer
