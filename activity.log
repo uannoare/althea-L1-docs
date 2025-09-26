@@ -547,3 +547,4 @@
 2025-06-24 01:09:58 rebuild project
 2025-05-09 23:30:18 better error handling
 2025-01-02 22:02:37 fix crash issue
+2025-09-26 09:02:52 fix null pointer
